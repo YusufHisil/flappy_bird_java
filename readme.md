@@ -19,4 +19,4 @@ This project is a clone of the popular game Flappy Bird, developed in Java using
 
 ## Screenshot
 
-![Flappy Bird Clone Screenshot](ss.png)
+![Flappy Bird Clone Screenshot](sshot.png)
